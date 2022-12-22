@@ -316,7 +316,7 @@ h3 {
     background:
             linear-gradient(360deg, #1B1D1F 0%, rgba(27, 29, 31, 0) 71.38%),
             linear-gradient(90deg, #1B1D1F 10.29%, rgba(27, 29, 31, 0) 67.53%),
-            url('/img/content_images/brick.png') right no-repeat;
+            url(/img/content_images/brick.png) right no-repeat;
     background-size: auto auto, auto auto, cover;
 }
 
